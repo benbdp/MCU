@@ -1,6 +1,6 @@
 # Motion Control Unit (MCU)
 
-MCU is a development board built around the PIC32MK series of microcontrollers from Microchip. This device was specifically for the up to 6 Quadrature Encode Interfaces (QEI) it offers. This board will make control of two and four wheeled robots with quadrature encoder equipped motors seamless. 
+MCU is a development board built around the PIC32MK series of microcontrollers from Microchip. This device was specifically for the up to 6 Quadrature Encode Interfaces (QEI) it offers. This board will make control of robots with quadrature encoder equipped motors seamless. 
 
 Specifications:
 - UART interface for communication with host
