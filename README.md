@@ -11,4 +11,4 @@ Specifications:
   - 6.5V to 12V motor voltage
   - 3.6A peak current
 
-![MCU Rev 1.0](Images/thumbnail.png)
+![MCU Rev 1.0](Images/top.png)
